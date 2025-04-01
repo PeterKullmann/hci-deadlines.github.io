@@ -295,6 +295,16 @@
   end: 2025-10-22
   sub: CSCW
 
+- title: CSCW
+  year: 2026
+  id: cscw26
+  link: https://cscw.acm.org/2026/papers.html
+  deadline: '2025-05-13 23:59:59'
+  timezone: UTC-12
+  place: TBA
+  date: TBA
+  sub: CSCW
+
 - title: CUI
   year: 2023
   id: cui23
