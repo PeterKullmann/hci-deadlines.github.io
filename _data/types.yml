@@ -23,3 +23,6 @@
 - name: Visualization
   sub: VIS
   color: '#a432a8'
+- name: Security and Privacy
+  sub: SP
+  color: '#a43208'
