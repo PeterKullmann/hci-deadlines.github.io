@@ -152,7 +152,7 @@
   year: 2023
   id: chi23
   link: https://chi2023.acm.org
-  deadline: "2022-09-15 23:59:59"
+  deadline: '2022-09-15 23:59:59'
   timezone: UTC-12
   place: Hamburg, Germany
   date: April, 23-28, 2023
@@ -164,7 +164,7 @@
   year: 2024
   id: chi24
   link: https://chi2024.acm.org
-  deadline: "2023-09-14 23:59:59"
+  deadline: '2023-09-14 23:59:59'
   timezone: UTC-12
   place: Honolulu, HI, USA
   date: May, 11-16, 2024
@@ -177,8 +177,8 @@
   year: 2025
   id: chi25
   link: https://chi2025.acm.org
-  deadline: "2024-09-12 23:59:59"
-  abstract_deadline: "2024-09-05 23:59:59"
+  deadline: '2024-09-12 23:59:59'
+  abstract_deadline: '2024-09-05 23:59:59'
   timezone: UTC-12
   place: Yokohama, Japan
   date: April, 26 - May, 1, 2025
@@ -190,8 +190,8 @@
   year: 2026
   id: chi26
   link: https://chi2026.acm.org
-  deadline: "2025-09-11 23:59:59"
-  abstract_deadline: "2025-09-04 23:59:59"
+  deadline: '2025-09-11 23:59:59'
+  abstract_deadline: '2025-09-04 23:59:59'
   timezone: UTC-12
   place: Barcelona, Spain
   date: April, 13-17, 2026
@@ -464,7 +464,6 @@
   end: 2025-06-28
   sub: HCI
 
-
 - title: evoMUSART
   year: 2025
   id: evomusart25
@@ -478,7 +477,7 @@
   start: 2025-04-23
   end: 2025-04-25
   paperslink: https://evomusart-index.dei.uc.pt/
-  sub: ['AI','DES','VIS','CSCW']
+  sub: ['AI', 'DES', 'VIS', 'CSCW']
   note: part of evostar 2025
 
 - title: FAccT
@@ -619,7 +618,6 @@
   start: 2026-03-16
   end: 2026-03-19
   sub: HRI
-
 
 - title: ICMI
   year: 2023
