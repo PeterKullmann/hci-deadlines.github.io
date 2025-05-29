@@ -8,6 +8,7 @@ baseurl: ''
 twitter_hashtag: hci-deadlines
 github_username: makinteractlab
 github_repo: hci-deadlines
+github_repo_confdatabase: conf-database
 
 markdown: kramdown
 ga_id:
